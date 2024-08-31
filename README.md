@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a UG Student with Software development engineering aspiration and enriching my knowledge in Full Stack Development<br>
+I'm Nithya Sarathi, an aspiring full-stack developer who's diving headfirst into the MERN stack (because why settle for less?). Expanding my toolkit with Django, Flask, and whatever new framework pops up next week. I dabble in DSA and DBMS, and I can code in C, C++, Python, Java, and JavaScript—because why not do everything at once?<br>
 
 
 ## 🌐 Socials:
