@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Nithya Sarathi, an aspiring full-stack developer who's diving headfirst into the MERN stack (because why settle for less?). Expanding my toolkit with Django, Flask, and whatever new framework pops up next week. I dabble in DSA and DBMS, and I can code in C, C++, Python, Java, and JavaScript—because why not do everything at once?<br>
+I'm Nithya Sarathi, an aspiring full-stack developer who's diving headfirst into the MERN stack (because why settle for less?). Expanding my toolkit with Django, Flask, and whatever new framework pops up next week. I dabble in DSA and DBMS, and I can code in C, C++, Python, Java, and JavaScript—because why not do everything at once? Still learning to implement AI in Full Stack Projects<br>
 
 
 ## 🌐 Socials:
