@@ -12,10 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nithyasarathim&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithyasarathim&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithyasarathim&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" /><br><br>
-  ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 </p>
-
 
 
 
