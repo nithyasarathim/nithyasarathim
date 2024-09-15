@@ -12,15 +12,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nithyasarathim&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithyasarathim&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithyasarathim&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" /><br><br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=nithyasarathim&icon=5&color=13" alt="Visitor Count"/>
+  </a><br><br>
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Dev Quote" /><br>
+  <h3>💰 You can help me by Donating</h3>
+  <a href="https://buymeacoffee.com/nithyasarathim">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
+  <a href="https://paypal.me/contact.nithyasarathi@gmail.com">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  </a>
 </p>
 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nithyasarathim&icon=5&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nithyasarathim) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/contact.nithyasarathi@gmail.com) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
