@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 UG CSE Student at SECE<br><br>🚀 Aspiring Software Engineer | Full Stack (MERN, Django, Flask)<br><br>🌟 No-Code/Low-Code:    WordPress, Wix, Flutterflow<br>💻 Problem Solver:               C, C++, Java, Python<br><br> 🛠 Intermediate in JavaScript<br>⚙️ Prompt Engineering Expert<br><br>🚧 Current Project:              Routine Improvement & Strategy Enhancement
+🎓 UG CSE Student at SECE<br><br>🚀 Aspiring Software Engineer | Full Stack (MERN, Django, Flask)<br><br>🌟 No-Code/Low-Code:    WordPress, Wix, Flutterflow<br>💻 Problem Solver:               C, C++, Java, Python<br><br> 🛠 Intermediate in JavaScript<br>⚙️ Prompt Engineering Expert<br><br>🚧 Current Project:              College Project Management System
+
 
 
 ## 🌐 Socials:
