@@ -10,8 +10,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=280&section=header&text=Nithyasarathi%20M&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Web%20Developer%20%7C%20Student%20Mentor%20%7C%20CSE%20Final%20Year&descSize=16&descAlignY=60&descColor=bae6fd&animation=fadeIn&stroke=0&strokeWidth=0" width="100%" alt="Nithyasarathi M" />
 
-
-
 </div>
 
 <br/>
@@ -39,9 +37,9 @@
 
 ## ◈ &nbsp;Who I Am
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithyasarathim&layout=compact&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a&border_color=1e3a5f&border_radius=10&langs_count=7&hide=html" height="140" alt="Top Languages" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nithyasarathim&layout=compact&theme=transparent&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a&border_color=1e3a5f&border_radius=10&langs_count=7&hide=html" height="140" alt="Top Languages" />
 
-I'm a final-year Computer Science student and a full-stack engineer who spends a lot of time thinking about *how systems hold together* — not just whether the code runs.
+I'm a final-year Computer Science student and a full-stack engineer who spends a lot of time thinking about _how systems hold together_ — not just whether the code runs.
 
 The questions I keep coming back to are infrastructure-level ones: how a session token moves through Redis without becoming a liability, why an authorization-code flow is meaningfully safer than handing a client a password, where the right boundary is when splitting a service. These aren't academic interests — they pushed me toward building actual systems rather than accumulating tutorials.
 
@@ -91,8 +89,10 @@ Core CS      →   OOP · DBMS · Operating Systems · Computer Networks
 <br/>
 
 > [!NOTE]
+>
 > ### 🔐 &nbsp;OneAuth — First-Party SSO Platform
-> *Three services. One identity layer. Zero password leaks to downstream products.*
+>
+> _Three services. One identity layer. Zero password leaks to downstream products._
 
 The idea was straightforward: instead of every product I build owning its own login screen, session logic, and password storage — pull all of that into a dedicated platform any product can delegate to. What came out was a three-service system built around an authorization-code flow. Client applications get a signed JWT they can trust without ever handling a credential directly.
 
@@ -286,14 +286,16 @@ I built it because I needed it first. Then peers kept asking for it.
 ## ◈ &nbsp;Experience
 
 > [!NOTE]
-> ### 🏢 &nbsp;Presidio Solutions &nbsp;·&nbsp; *Top 10 of 1000+ participants*
+>
+> ### 🏢 &nbsp;Presidio Solutions &nbsp;·&nbsp; _Top 10 of 1000+ participants_
 
-The selection itself was a filter. Working there changed how I think about code — from *"does it run"* to *"does it belong in a team's codebase six months from now."* Version control discipline, RAG pipeline integration, DevOps basics, and working inside an opinionated review culture. The kind of things that don't show up in coursework but define professional engineering.
+The selection itself was a filter. Working there changed how I think about code — from _"does it run"_ to _"does it belong in a team's codebase six months from now."_ Version control discipline, RAG pipeline integration, DevOps basics, and working inside an opinionated review culture. The kind of things that don't show up in coursework but define professional engineering.
 
 <br/>
 
 > [!NOTE]
-> ### 🏢 &nbsp;Quantumpulse Technologies &nbsp;·&nbsp; *Full Stack Development Intern*
+>
+> ### 🏢 &nbsp;Quantumpulse Technologies &nbsp;·&nbsp; _Full Stack Development Intern_
 
 Contributed to a Learning Management System — MERN stack, responsive design, standard practices. Useful for learning what it looks like to extend an existing codebase responsibly rather than starting from scratch.
 
