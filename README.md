@@ -262,16 +262,6 @@ I built it because I needed it first. Then peers kept asking for it.
 <br/>
 
 ## ◈ &nbsp;GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nithyasarathim&show_icons=true&title_color=0ea5e9&icon_color=38bdf8&text_color=cbd5e1&bg_color=0f172a&border_color=1e3a5f&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=nithyasarathim&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideLabels=cbd5e1&dates=64748b&background=0f172a&border=1e3a5f&border_radius=10&stroke=1e3a5f" height="180" alt="Streak Stats" />
-
-
-</div>
-
 <br/>
 
 <div align="center">
